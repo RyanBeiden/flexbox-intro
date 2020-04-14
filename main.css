@@ -1,3 +1,47 @@
 body {
-  background-color: aqua;
+  background-color: lightskyblue;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  min-height: 400px;
+  margin-bottom: 100px;
+  clear: both;
+  font-family: futura;
+}
+
+/* Nav Section */
+.navigation {
+  background-color: seagreen;
+  display: flex;
+}
+
+.nav-list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.nav-item a {
+  margin: 1em;
+  display: block;
+  color: plum;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.nav-item a:hover {
+  color: purple;
+  background-color: lightskyblue;
+}
+
+footer {
+  width: 100%;
+  color: plum;
+  background-color: seagreen;
+  padding: 20px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
 }
