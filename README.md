@@ -6,4 +6,6 @@ This project was made to experiment with Flexbox as I learn this new feature of 
 - [Flexbox Code](https://github.com/RyanBeiden/flexbox-intro/blob/master/main.css) 👀
 
 ## Technologies Used
-[![CSS](https://img.shields.io/badge/-CSS-2c9fcc?style=flat-square)](#)
+[![CSS](https://img.shields.io/badge/-CSS-2c9fcc?style=flat-square)](#) [![HTML](https://img.shields.io/badge/-HTML-2c9fcc?style=flat-square)](#)
+
+
